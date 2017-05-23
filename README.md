@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # REACT WEATHER
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -1908,3 +1909,6 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # react-challenge
 >>>>>>> 2740e102cc57069f0f24c4676c683956e1ec1d90
+=======
+# react-challenge-a-new-route
+>>>>>>> 268e479958757f5190e5f9fa10f7bcd1399368fc
